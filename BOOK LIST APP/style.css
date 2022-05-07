@@ -1,0 +1,20 @@
+* {
+  background-color: aliceblue;
+}
+.container {
+  width: 70%;
+}
+body {
+  background-color: aliceblue;
+}
+form {
+  font-weight: 800;
+}
+div h1 {
+  font-weight: 1200;
+  color: #222;
+}
+
+.title {
+  margin-top: 4rem;
+}
